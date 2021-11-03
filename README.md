@@ -48,7 +48,7 @@ This group has 5.7k members and has a number of very active channels, covering e
 
 # Cybersecurity
 
-provide a description here
+OWASP topics, latest cybersecurity news, and more.
 
 ### OWASP Slack Channel
 The Open Web Application Security Project (OWASP) is the largest community of individuals aiming to improve web application security.  
